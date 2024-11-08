@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Commic Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Cartoon Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Laughter Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Mystery Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":60,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Thriller Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":200,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Power Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":90,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"Spiritual Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "name":"Logic  Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":100,
+        "category":"Drawing",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    },
+    {
+        "id":100,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipising elit.",
+        "price":0,
+        "category":"Music ",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-one-titled-one-called-book_1132399-5567.jpg?ga=GA1.1.1164804523.1729678037&semt=ais_hybrid"
+    }
+]
