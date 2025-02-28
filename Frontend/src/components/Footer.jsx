@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 
 const Footer = () => {
   return (
@@ -49,7 +49,7 @@ const Footer = () => {
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
   </aside>
 </footer>
     </div>

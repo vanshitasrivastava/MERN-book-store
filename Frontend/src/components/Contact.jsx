@@ -25,7 +25,7 @@ const Contact = () => {
                             <input
                                 type="text"
                                 placeholder="Enter your name"
-                                className="w-80 px-3 py-1 border rounded-md outline-none"
+                                className="w-72 px-3 py-1 border rounded-md outline-none"
                                 {...register("name", { required: true })}
                             />
                             <br />
@@ -39,7 +39,7 @@ const Contact = () => {
                             <input
                                 type="email"
                                 placeholder="Enter your password"
-                                className="w-80 px-3 py-1 border rounded-md outline-none"
+                                className="w-72 px-3 py-1 border rounded-md outline-none"
                                 {...register("email", { required: true })}
 
                             />
@@ -53,7 +53,7 @@ const Contact = () => {
                             <input
                                 type="text"
                                 placeholder="Type your message"
-                                className="w-64 h-36 px-3 py-1 border rounded-md outline-none"
+                                className="w-64 h-24 px-3 py-1 border rounded-md outline-none"
                                 {...register("message", { required: true })}
                             />
                             <br />
