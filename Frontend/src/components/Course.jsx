@@ -3,13 +3,13 @@ import { useEffect, useState } from "react"
 // import list from "../../public/list.json"
 import Cards from './Cards'
 import {Link} from 'react-router-dom'
-import axios from 'axios'
+import axiosInstance from "../axiosInstance";
 function Course(){
   const [book,setBook]=useState([]);
   useEffect(()=>{
      const getBook=async()=>{
       try {
-      const result= await axios.get("http://localhost:4001/book");
+      const result= await axiosInstance.get("/book");
       console.log(result.data);
       setBook(result.data);
       } catch (error) {
